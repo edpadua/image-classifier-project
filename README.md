@@ -21,7 +21,6 @@ The project is organized as follows:
 
 /image-classifier-project ├── /data/ # Training dataset (e.g., /train/cats, /train/dogs) ├── /models/ # ML artifacts │ └── image_classifier_model.h5 ├── app.py # Main API code (FastAPI) ├── training.py # Script to train and save the model ├── requirements.txt # Python dependencies ├── class_map.txt # Mapping of indices to class names └── README.md # This file
 
----
 
 ## 🛠️ Setup and Installation Guide
 
