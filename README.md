@@ -1,5 +1,7 @@
 # 🖼️ Image Classifier with Transfer Learning (FastAPI & TensorFlow)
 
+![image](https://github.com/edpadua/image-classifier-project/blob/main/image-classifier-capture%20(1).gif)
+
 ## 🌟 Project Overview
 
 This project implements an **image classifier** using **Transfer
